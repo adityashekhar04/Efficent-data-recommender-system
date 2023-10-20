@@ -5,3 +5,4 @@ pandas
 requests
 beautifulsoup4
 urllib3
+validators>=0.21.0 # not directly required, pinned by Snyk to avoid a vulnerability
